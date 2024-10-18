@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "DC Asesor"
 title_separator          : "-"
 name                     : &name "Diego M. Cano Perona"
-description              : &description "personal description"
-url                      : https://dcasesoria.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Pagina web para DC Asesor"
+url                      : https://dcasesor.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dcasesoria/dcasesoria.github.io"
+repository               : "dcasesoria/dcasesor.github.io"
 masthead_title           : "DC Asesor"
 
 
