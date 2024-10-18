@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DC Consulting"
+title                    : "DC Asesor"
 title_separator          : "-"
 name                     : &name "Diego M. Cano Perona"
 description              : &description "personal description"
 url                      : https://dcasesoria.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dcasesoria/dcasesoria.github.io"
-masthead_title           : "DC Consulting"
+masthead_title           : "DC Asesor"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile_photo.png"
   name             : "Diego M. Cano Perona"
   pronouns         : # example: "she/her"  
-  bio              : "Página web diseñada para DC Consulting"
+  bio              : "Página web diseñada para DC Asesor"
   location         : "Madrid, España"
   employer         : "Autónomo"
   uri              : # URL
