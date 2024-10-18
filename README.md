@@ -1,6 +1,6 @@
 # DC Consulting Web site
 
-This repository holds & deploys the private website [DC Consulting](https://dcasesoria.github.io/), forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
+This repository holds & deploys the private website [DC Asesor](https://dcasesoria.github.io/), forked from [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
 
 ---
 <div align="center">
