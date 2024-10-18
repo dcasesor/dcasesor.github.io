@@ -10,6 +10,7 @@ header:
   overlay_image: about_banner.jpg
   overlay_filter: 0.3
 ---
+# Presentación
 
 Soy un profesional con más de 35 años de experiencia en temas financieros y contables.
 
