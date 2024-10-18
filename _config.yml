@@ -14,7 +14,7 @@ name                     : &name "Diego M. Cano Perona"
 description              : &description "personal description"
 url                      : https://dcasesoria.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dcasesoria/scasesoria.github.io"
+repository               : "dcasesoria/dcasesoria.github.io"
 masthead_title           : "DC Consulting"
 
 
@@ -26,7 +26,7 @@ author:
   avatar           : "profile_photo.png"
   name             : "Diego M. Cano Perona"
   pronouns         : # example: "she/her"  
-  bio              : "Página web diseñada para D.C. Asesoría"
+  bio              : "Página web diseñada para DC Consulting"
   location         : "Madrid, España"
   employer         : "Autónomo"
   uri              : # URL
