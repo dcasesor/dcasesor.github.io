@@ -1,12 +1,11 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Servicios Prestados"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-# Servicios Prestados
 
 El objetivo es generar valor para la empresa, a través de unos servicios y habilidades por parte del colaborador, mediante la personalización a prestar en cada empresa:
 >- Reducción de riesgos en el cumplimiento normativo
@@ -26,7 +25,7 @@ Para conseguir estos objetivos tengo unos valores a seguir en todo momento:
 
 ***
 
-#### <center>Servicios Contables y Administrativos<center>
+## <center>Servicios Contables y Administrativos<center>
 >- Llevanza de la contabilidad según normativa
 >- Elaboración de balances y cuentas de resultados
 >- Legalización de libros oficiales
@@ -36,7 +35,7 @@ Para conseguir estos objetivos tengo unos valores a seguir en todo momento:
 >- Reporte a casa matriz de los datos de sociedades filiales bajo distintos
 criterios contables
 
-#### <center>Servicios Fiscales y Tributarios<center>
+## <center>Servicios Fiscales y Tributarios<center>
 
 >- Elaboración y presentación de declaraciones fiscales
 >  - Informativas
@@ -45,7 +44,7 @@ criterios contables
 >  - Anuales
 >- Cálculo de Impuestos diferidos y anticipados
 
-#### <center>Servicios de Gestión de Tesorería<center>
+## <center>Servicios de Gestión de Tesorería<center>
 >- Preparación y seguimiento de flujos de cobros y pagos
 >- Conciliaciones bancarias
 >- Soporte en negociación con entidades financieras
@@ -55,7 +54,7 @@ criterios contables
 >  - Avales
 >  - Líneas de cobros domiciliados
 
-#### <center>Servicios con Colaboradores<center>
+## <center>Servicios con Colaboradores<center>
 >- Servicios laborales
 >  - Altas y bajas de contratos
 >  - Preparación de nóminas
