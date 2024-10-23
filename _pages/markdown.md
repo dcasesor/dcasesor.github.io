@@ -1,3 +1,11 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
 # Servicios Prestados
 
 El objetivo es generar valor para la empresa, a través de unos servicios y habilidades por parte del colaborador, mediante la personalización a prestar en cada empresa:
