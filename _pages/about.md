@@ -39,4 +39,4 @@ Tras estos años en empresas multinacionales, me he propuesto un cambio de rumbo
 
 Se podría pensar que este cambio implica una menor responsabilidad, pero creo que es todo lo contrario,
 
-Una empresa multinacional posee muchos recursos a su alcance (financieros, tecnólogicos, humanos …) pero una PYME no puede acceder a los mismos de la misma forma y esto implica que la responsabilidad de obtener buenos resultados en mayor.
+Una empresa multinacional posee muchos recursos a su alcance (financieros, tecnólogicos, humanos …) pero una PYME no puede acceder a los mismos de la misma forma y esto implica que la responsabilidad de obtener buenos resultados es mayor.
