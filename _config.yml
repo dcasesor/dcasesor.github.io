@@ -23,7 +23,7 @@ masthead_title           : "DC Asesor"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.png"
+  avatar           : "profile_photo.jpg"
   name             : "Diego M. Cano Perona"
   pronouns         : # example: "she/her"  
   bio              : "Página web diseñada para DC Asesor"
