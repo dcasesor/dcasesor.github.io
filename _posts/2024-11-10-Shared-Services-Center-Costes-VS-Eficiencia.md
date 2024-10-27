@@ -1,6 +1,6 @@
 ---
 title: 'Shared Services Center-Costes vs Eficiencia'
-date: 2012-08-14
+date: 2020-11-10
 tags:
   - Shared Services Center
   - Multinacionales
@@ -16,7 +16,7 @@ Una buena definición de qué procesos se van a incluir en estos SSC es parte fu
 
 Como he indicado en el título de este artículo, quisiera comentar qué se quiere conseguir, cual es el objetivo primordial al decidirse por la creación de un SSC.
 
-Reducción de Costes versus Eficiencia en Procesos.
+<u>Reducción de Costes versus Eficiencia en Procesos.</u>
 
 Es obvio que no son objetivos excluyentes, que son compatibles y ambos consiguen lo más importante que es la mejora del resultado neto de la empresa, pero al tomar la decisión inicial hay que elegir entre ambas opciones como primer paso.
 
