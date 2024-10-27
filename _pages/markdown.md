@@ -43,12 +43,13 @@ criterios contables
   - Sub Item 1
   - Sub Item 2
 
->- Elaboración y presentación de declaraciones fiscales
->  - Informativas
->  - Mensuales
->  - Trimestrales
->  - Anuales
->- Cálculo de Impuestos diferidos y anticipados
+> - Elaboración y presentación de declaraciones fiscales
+>   - Informativas
+>   - Mensuales
+>   - Trimestrales
+>   - Anuales
+> - Cálculo de Impuestos diferidos y anticipados
+
 
 ## <center>Servicios de Gestión de Tesorería<center>
 >- Preparación y seguimiento de flujos de cobros y pagos
