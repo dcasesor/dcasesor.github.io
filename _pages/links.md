@@ -4,5 +4,5 @@ title: "Links de Interés"
 author_profile: true
 ---
 
-- https://www.google.com/
-- https://es.wikipedia.org/wiki/Wikipedia:Portada
+- [Buscador Google](https://www.google.com/)
+- [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
