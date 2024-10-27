@@ -30,6 +30,7 @@ author:
   location         : "Madrid, España"
   employer         : "Autónomo"
   uri              : # URL
+  phone            : "+34 123456789"
   email            : "diego.cano@dcasesor.es" 
 
   # Academic websites
