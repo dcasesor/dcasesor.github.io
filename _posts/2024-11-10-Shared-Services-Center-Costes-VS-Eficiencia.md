@@ -1,6 +1,6 @@
 ---
 title: 'Shared Services Center-Costes vs Eficiencia'
-date: 2020-11-10
+date: 2021-02-16
 tags:
   - Shared Services Center
   - Multinacionales
