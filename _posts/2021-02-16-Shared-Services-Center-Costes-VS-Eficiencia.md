@@ -1,8 +1,8 @@
 ---
-title: 'Shared Services Center-Costes vs Eficiencia'
+title: 'Shared Services Center: Costes vs Eficiencia'
 date: 2021-02-16
 tags:
-  - Shared Services Center
+  - Centros de Servicio Compartido
   - Multinacionales
   - Reducción de costes
   - Crecimiento empresarial
