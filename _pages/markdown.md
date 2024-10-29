@@ -7,20 +7,20 @@ redirect_from:
   - /markdown.html
 ---
 
-El objetivo es generar valor para la empresa, a través de unos servicios y habilidades por parte del colaborador, mediante la personalización a prestar en cada empresa:
-> - Reducción de riesgos en el cumplimiento normativo
-> - Análisis de procesos para la reducción de costes y logar eficiencia
+El objetivo es generar valor para la empresa, a través de unos servicios y habilidades, mediante la personalización a prestar en cada empresa:
+> - Reducción de riesgos en el cumplimiento normativo.
+> - Análisis de procesos para la reducción de costes y lograr mejoras en la eficiencia.
 > - Conseguir que la gerencia se dedique en pleno y se enfoque a su negocio.
->- Ayudar al desarrollo del negocio.
+> - Ayudar al desarrollo del negocio.
 
 Para conseguir estos objetivos tengo unos valores a seguir en todo momento:
-> - Calidad en el trabajo
-> - Conocimientos
-> - Experiencia,
-> - Capacidad de respuesta
-> - Compromiso
-> - Confidencialidad
-> - Independencia y objetividad
+> - Calidad en el trabajo.
+> - Conocimientos.
+> - Experiencia.
+> - Capacidad de respuesta.
+> - Compromiso.
+> - Confidencialidad.
+> - Independencia y objetividad.
 
 ***
 
