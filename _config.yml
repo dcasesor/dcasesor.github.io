@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "DC Asesor"
 title_separator          : "-"
 name                     : &name "Diego M. Cano Perona"
-description              : &description "Pagina web para DC Asesor"
+description              : &description "Responsable Financiero | Consultor | Asesor"
 url                      : https://dcasesor.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dcasesoria/dcasesor.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile_photo.jpg"
   name             : "Diego M. Cano Perona"
   pronouns         : # example: "she/her"  
-  bio              : "Página web diseñada para DC Asesor"
+  bio              : "Responsable Financiero | Consultor | Asesor"
   location         : "Madrid, España"
   employer         : # employer
   uri              : # URL
