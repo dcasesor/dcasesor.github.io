@@ -1,6 +1,6 @@
 ---
 title: 'Decisión Vital: No Morirse'
-date: 2023-11-04
+date: 2024-11-04
 tags:
   - planificacionfinanciera
   - educacionfinanciera
