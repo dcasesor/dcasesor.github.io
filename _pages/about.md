@@ -37,6 +37,4 @@ En varias ocasiones, en la que trabajaba en un grupo de empresas, se solía eleg
 
 Tras estos años en empresas multinacionales, me he propuesto un cambio de rumbo, y quiero compartir esta experiencia y conocimientos con empresas de menor tamaño, para aportar y ayudar a que este tipo de empresas no solo sobrevivan sino que crezcan.
 
-Se podría pensar que este cambio implica una menor responsabilidad, pero creo que es todo lo contrario,
 
-Una empresa multinacional posee muchos recursos a su alcance (financieros, tecnólogicos, humanos …) pero una PYME no puede acceder a los mismos de la misma forma y esto implica que la responsabilidad de obtener buenos resultados es mayor.
