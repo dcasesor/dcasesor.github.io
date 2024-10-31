@@ -1,6 +1,6 @@
 ---
 title: 'Shared Services Center: Costes vs Eficiencia'
-excerpt: 'Resumen del artículo, esto es un resumen, ¿lo estoy resumiendo? A ver si funciona bien el resumen.
+excerpt: 'Resumen del artículo, esto es un resumen, ¿lo estoy resumiendo? A ver si funciona bien el resumen.'
 date: 2021-02-16
 tags:
   - Centros de Servicio Compartido
