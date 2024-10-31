@@ -1,11 +1,15 @@
 ---
 permalink: /markdown/
-title: "Servicios Prestados"
+title: " "
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
+header:
+  overlay_image: servicios_banner.jpg
+  overlay_filter: 0.3
 ---
+# Servicios Prestados
 
 El objetivo es generar valor para la empresa, a través de unos servicios y habilidades, mediante la personalización a prestar en cada empresa:
 > - Reducción de riesgos en el cumplimiento normativo.
