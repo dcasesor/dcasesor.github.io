@@ -1,6 +1,6 @@
 ---
 permalink: /links/
-title: "  <center> Links de Interés </center>"
+title: "  <center><font color="#000000"> Links de Interés <font></center>"
 author_profile: true
 header:
   overlay_image: internet_banner.jpg
