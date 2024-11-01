@@ -1,6 +1,6 @@
 ---
 title: 'Shared Services Center: Costes vs Eficiencia'
-excerpt: 'Resumen del artículo, esto es un resumen, ¿lo estoy resumiendo? A ver si funciona bien el resumen.'
+excerpt: 'Este artículo analiza los Centros de Servicios Compartidos (SSC) en multinacionales, destacando cómo definir procesos permite equilibrar reducción de costos y eficiencia. Se concluye que priorizar la eficiencia ofrece beneficios sostenibles, impulsando el crecimiento sin necesidad de más recursos.'
 date: 2021-02-16
 tags:
   - Centros de Servicio Compartido
