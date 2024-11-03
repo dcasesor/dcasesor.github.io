@@ -18,7 +18,7 @@ Tras haber cursado los estudios de Ciencias Económicas y Empresariales en la Un
 
 Desde mis inicios como junior en una de las principales empresas de auditoría, he ocupado puestos de jefe de contabilidad y administración, adjunto a la dirección financiera, hasta responsable financiero de empresas de España, Francia e Italia.
 
-Estoy inscrito en el ROAC (Registro Oficial de Auditores de Cuentas), con el número 02236.
+Estoy inscrito en el ROAC (Registro Oficial de Auditores de Cuentas), con el número 02236 (No Ejerciente).
 
 También he formado parte de consejos de administración en sociedades españolas, francesas e italianas.
 
