@@ -22,7 +22,7 @@ Estoy inscrito en el ROAC (Registro Oficial de Auditores de Cuentas), con el nú
 
 También he formado parte de consejos de administración en sociedades españolas, francesas e italianas.
 
-Estuve en un grupo de profesionales que participaron en la preparación el Euro en un grupo de empresas.
+Estuve en un grupo de profesionales que participaron en la preparación de la implantación del Euro en un grupo de empresas.
 
 Al inicio de mi actividad profesional en auditoría, sentí una especial atracción por temas relacionados con los procesos y procedimientos contables y administrativos, revisando y analizando los diferentes pasos que se producen y comprobando sistemas de control.
 
@@ -31,7 +31,7 @@ mayor eficiencia en los sistemas administrativos.
 
 Con el paso del tiempo, fui adquiriendo más habilidades en temas de tesorería (confirming, cash pool, seguros de divisas, avales….), fiscales (IVA, No residentes, consolidación fiscal, impuestos diferidos ...).
 
-He participado en la implantación como key user de varios ERP, como Baan, SAP, y Business Central.
+He participado en la implantación como key user de varios ERP (Sistemas de Gestión) , como Baan, SAP, y Business Central.
 
 En varias ocasiones, en la que trabajaba en un grupo de empresas, se solía elegir a la filial donde yo estaba como empresa piloto, para la implantación de varios procesos como cash pool, confirming.
 
