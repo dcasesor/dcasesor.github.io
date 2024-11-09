@@ -9,7 +9,7 @@ tags:
 
 El 10 de noviembre se celebra el Dia Internacional de la Contabilidad.
 
-<img style="float: right;" src="/images/Libro_Suma_Artithmetica.jpg">
+<img style="float: right;width: 25%;" src="/images/Libro_Suma_Artithmetica.jpg">
 
 Esta fecha conmemora la publicación del libro "Summa de Arithmetica, Geometria, Proportioni et Proportionalità"[^1]; en 1494, escrito por el matemático italiano **Luca Pacioli**, quien es conocido como el "padre de la contabilidad".
 
