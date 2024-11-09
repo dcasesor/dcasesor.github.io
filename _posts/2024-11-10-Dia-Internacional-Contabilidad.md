@@ -28,4 +28,4 @@ Desde aquí quisiera reconocer la importancia de la contabilidad en el mundo emp
 
 Una tarea que no tiene descanso y que día tras día y a través de numerosas organizaciones en todo el mundo, sigue buscando y analizando los criterios que deben seguir las empresas y organismos para lograr una mayor eficiencia.
 
-[^1] Este libro en su versión original puede ser descargado en el siguiente enlace, gracias a la [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra/summa-de-arithmetica-geometria-proportioni-et-proportionalita-1048443/).
+[^1]: Este libro en su versión original puede ser descargado en el siguiente enlace, gracias a la [Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/obra/summa-de-arithmetica-geometria-proportioni-et-proportionalita-1048443/).
