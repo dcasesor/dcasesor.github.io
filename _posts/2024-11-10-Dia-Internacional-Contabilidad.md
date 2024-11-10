@@ -21,7 +21,7 @@ Luca Pacioli, fue un fraile franciscano, matemático, y profesor italiano (uno d
   - Todo el que recibe debe a la persona que da o entrega.
   - Todo valor que ingresa es deudor y todo valor que sale es acreedor.
   - Toda pérdida es deudora y toda ganancia acreedora.
-  - 
+
 Desde los antiguos libros manuales de contabilidad, hasta los más modernos sistemas integrados de gestión, la misión de los contables siempre ha estado con el enfoque de ofrecer una información adecuada a los gestores, inversores y organismos públicos de la misma.
 
 Desde aquí quisiera reconocer la importancia de la contabilidad en el mundo empresarial y económico, base de la información usada de forma continua por unos profesionales que contribuyen a la transferencia informativa, la toma de decisiones y el desarrollo de organizaciones públicas y privadas.
