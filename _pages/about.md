@@ -37,4 +37,15 @@ En varias ocasiones, en la que trabajaba en un grupo de empresas, se solía eleg
 
 Tras estos años en empresas multinacionales, me he propuesto un cambio de rumbo, y quiero compartir esta experiencia y conocimientos con empresas de menor tamaño, para aportar y ayudar a que este tipo de empresas no solo sobrevivan sino que crezcan.
 
+***
+<!-- hitwebcounter Code START -->
+<div class="contador-visitas">
+    <a href="https://www.hitwebcounter.com" target="_blank">
+        <img src="https://hitwebcounter.com/counter/counter.php?page=17358163&style=0008&nbdigits=4&type=page&initCount=0" 
+             title="Número de Visitas" 
+             alt="Visit counter For Websites" 
+             border="0" />
+    </a>
+</div>
+
 
